@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Big-Maikel
 - 👀 I’m interested in Fortnite
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me not
 - 😄 Pronouns: Big/Mike
